@@ -1,5 +1,5 @@
 {
-    "name": "danestves/laravel-polar",
+    "name": "ezsolu/laravel-polar",
     "description": "A package to easily integrate your Laravel application with Polar.sh",
     "keywords": [
         "laravel",
@@ -11,8 +11,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "danestves",
-            "email": "danestves@users.noreply.github.com",
+            "name": "ezsolu",
+            "email": "ezsolu.io@gmail.com",
             "role": "Developer"
         }
     ],
