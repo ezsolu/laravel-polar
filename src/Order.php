@@ -148,7 +148,7 @@ class Order extends Model // @phpstan-ignore-line propertyTag.trait - Billable i
             'product_id' => $attributes['product_id'],
             'product_price_id' => $attributes['product_price_id'],
             'refunded_at' => $attributes['refunded_at'],
-            'ordered_at' => $attributes['ordered_at'],
+            'ordered_at' => $attributes['created_at'],
         ]);
 
         return $this;
